@@ -1,0 +1,1 @@
+fn deploy --app goboilerplates --local

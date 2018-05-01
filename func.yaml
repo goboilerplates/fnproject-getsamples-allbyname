@@ -1,0 +1,5 @@
+name: fnproject-getsamples-allbyname
+version: 0.0.0
+runtime: go
+entrypoint: ./func
+format: json
